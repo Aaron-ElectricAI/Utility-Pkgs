@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string>v6.3.0.0 Copyright © 2007-2012 Kaseya International Limited. All Rights Reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kaseya.uninstall</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.3.0</string>
+	<key>IFMajorVersion</key>
+	<integer>6</integer>
+	<key>IFMinorVersion</key>
+	<integer>3</integer>
+	<key>IFPkgFlagAllowBackRev</key>
+	<false/>
+	<key>IFPkgFlagAuthorizationAction</key>
+	<string>RootAuthorization</string>
+	<key>IFPkgFlagBackgroundAlignment</key>
+	<string>topleft</string>
+	<key>IFPkgFlagBackgroundScaling</key>
+	<string>none</string>
+	<key>IFPkgFlagDefaultLocation</key>
+	<string>/var/tmp</string>
+	<key>IFPkgFlagFollowLinks</key>
+	<true/>
+	<key>IFPkgFlagInstallFat</key>
+	<false/>
+	<key>IFPkgFlagInstalledSize</key>
+	<integer>32</integer>
+	<key>IFPkgFlagIsRequired</key>
+	<false/>
+	<key>IFPkgFlagOverwritePermissions</key>
+	<false/>
+	<key>IFPkgFlagRelocatable</key>
+	<false/>
+	<key>IFPkgFlagRestartAction</key>
+	<string>NoRestart</string>
+	<key>IFPkgFlagRootVolumeOnly</key>
+	<false/>
+	<key>IFPkgFlagUpdateInstalledLanguages</key>
+	<false/>
+	<key>IFPkgFormatVersion</key>
+	<real>0.10000000149011612</real>
+</dict>
+</plist>
